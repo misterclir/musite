@@ -1,0 +1,496 @@
+#menu_ranking {
+	    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #3f3632;
+    padding: 3px 3px 6px 3px;
+}
+
+#menu_ranking ul {
+    margin: 0 0px 2px 4px;
+}
+
+#menu_ranking li {
+    margin: 2px 1px auto;
+    display: block;
+    list-style: none;
+    padding: 0px 2px 0px 0px;
+    float: left;
+}
+
+#menu_ranking li a {
+    width: 87px;
+    background: url(../images/buttons/vermelho.png) no-repeat;
+    height: 29px;
+    display: block;
+    margin: 3px 1px auto;
+    color: #b9b1a7;
+    font-size: 12px;
+    font-family: Tahoma;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: normal;
+    text-align: center;
+    line-height: 26px;
+    text-decoration: none;
+}
+
+.ranking_tipo {
+    margin-bottom: 5px;
+    border: 1px solid #3f3632;
+    padding: 3px 3px 6px 3px;
+}
+
+.ranking_tipo ul {
+    margin: 0 0px 2px 4px;
+}
+
+.ranking_tipo li {
+    margin: 2px 1px auto;
+    display: block;
+    list-style: none;
+    padding: 0px 2px 0px 0px;
+    float: left;
+}
+
+.ranking_tipo li a {
+    width: 78px;
+    background: url(../images/buttons/botao.png) no-repeat;
+    height: 30px;
+    display: block;
+    margin: 3px 1px auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #b9b1a7;
+    font-size: 11px;
+    font-family: Tahoma;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: normal;
+    text-align: center;
+    line-height: 26px;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
+.ranking_top {
+    margin-bottom: 5px;
+    border: 1px solid #3f3632;
+    padding: 3px 3px 6px 3px;
+}
+
+.ranking_top ul {
+    margin: 0 0px 2px 4px;
+}
+
+.ranking_top li {
+    margin: 2px 1px auto;
+    display: block;
+    list-style: none;
+    padding: 0px 2px 0px 0px;
+    float: left;
+}
+
+.ranking_top li a {
+    width: 112px;
+    background: url(../images/buttons/amarelo.png) no-repeat;
+    height: 30px;
+    display: block;
+    margin: 3px 1px auto;
+    color: #b9b1a7;
+    font-size: 11px;
+    font-family: Tahoma;
+    text-shadow: 1px 1px 1px #000;
+    font-weight: normal;
+    text-align: center;
+    line-height: 26px;
+    text-decoration: none;
+}
+
+.clicked_btn {
+	
+	-webkit-filter: grayscale(100%); filter: grayscale(100%);
+}
+
+
+/*#etc { 
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}*/
+/*--------------------------------------------------------------*/
+#breakline { 
+	clear:both; 
+}
+/*--------------------------------------------------------------*/
+#qform {
+    position: relative;
+    width: 500px;
+    height: 42px;
+    margin-top: -35px;
+    margin-left: -10px;
+    /*background: url(../img/profile/search.jpg) top left no-repeat;*/
+}
+
+#qform #formchar {
+	margin-top: 8px;
+    margin-left: 10px;
+    position: absolute;
+}
+#qform #char {
+	width: 100px!important;
+}
+#qform #buscarchar {
+	width: 59px!important;
+}
+
+#qform #formguild {
+	margin-top: 8px;
+    margin-left: 320px;
+    position: absolute;
+}
+#qform #nome {
+	width: 100px!important;
+}
+#qform #buscarguid {
+	width: 59px!important;
+}
+.errorchar {
+	padding-top: 37px;
+}
+/*--------------------------------------------------------------*/
+#qguild {
+    position: absolute;
+    z-index: 999;
+    margin-top: -738px;
+    margin-left: 199px;
+    float: left;
+}
+#qguild #lguild {
+	font-weight:normal;
+	margin-left: 0px;
+	float: left;
+}
+#qguild #lguild img {
+	border-radius:4px;
+}
+#qguild #nguild {
+    margin-top: 166px;
+    margin-left: -96px;
+    float: left;
+    width: 273px;
+    text-align: center;
+}
+#qguild #nguild span {
+    color: #ffbf0a;
+    font-size: 34px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+/*-------------------------------------------------*/
+#wscore {
+	position: absolute;
+    z-index: 999;
+	margin-top: -404px;
+    margin-left: 36px;
+	font-weight:normal;
+	float: left;
+	text-align: left;
+}
+#wscore span {
+    color: #e6ded4;
+    font-size: 14px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+
+#uscore {
+	position: absolute;
+    z-index: 999;
+    margin-top: -404px;
+    margin-left: 344px;
+    font-weight: normal;
+    float: left;
+    text-align: right;
+    width: 100px;
+}
+#uscore span {
+    color: #e6ded4;
+    font-size: 14px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+
+#cscore {
+	position: absolute;
+    z-index: 999;
+	margin-top: -367px;
+    margin-left: 161px;
+    font-weight: normal;
+    float: left;
+    width: 153px;
+    text-align: center;
+}
+#cscore span {
+    color: #e6ded4;
+    font-size: 14px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+/*-------------------------------------------------*/
+#fmaster {
+	position: absolute;
+    z-index: 999;
+	margin-top: -263px;
+    margin-left: 42px;
+	font-weight:normal;
+	float: left;
+	text-align: left;
+}
+
+#fmaster a {
+	text-decoration:none;
+}
+
+#nmaster {
+	position: absolute;
+    z-index: 999;
+    margin-top: -112px;
+    margin-left: 29px;
+    font-weight: normal;
+    float: left;
+    text-align: center;
+    width: 163px;
+}
+#nmaster span {
+    color: #e6ded4;
+    font-size: 20px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+#nmaster span a {
+	color: #e6ded4;
+	text-decoration:none;
+}
+/*-------------------------------------------------*/
+#qmedal {
+	position: absolute;
+    z-index: 999;
+    margin-top: -195px;
+    margin-left: 307px;
+    float: left;
+}
+#qmedal .qmedal {
+	width:164px;
+}
+#qmedal tr td {
+	font-size: 11px;
+	color: #b9b1a7;
+	width: 40px;
+	text-align: center;
+	font-weight:bold;
+}
+/*-------------------------------------------------*/
+#qmaster {
+	position:relative;
+    width: 499px;
+    height: 62px;
+    background: url('../img/guild/master.jpg') top center no-repeat;
+	border:none; 
+	margin-left:-10px;
+	float:left;
+}
+#qmembers {
+	position:relative;
+    width: 499px;
+    height: 62px;
+    background: url('../img/rankings/members.jpg') top center no-repeat;
+	border:none; 
+	margin-left:-10px;
+	float:left;
+}
+#mfoto {
+	position:absolute;
+    margin-left: 15px;
+    margin-top: 6px;
+    float: left;
+    cursor: pointer;
+    text-align: center;
+}
+#mfoto img {
+    height: 49px;
+    width: 49px;
+}
+#mfoto a {
+    text-decoration:none;
+}
+
+#mnome {
+	position:absolute;
+    margin-left: 67px;
+    margin-top: 24px;
+	width: 110px;
+    float: left;
+    cursor: pointer;
+    text-align: center;
+	z-index:1000;
+}
+#mnome span {
+    color: #b9b1a7;
+    font-size: 14px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+
+#mnome span a {
+	color: #b9b1a7;
+    text-decoration:none;
+}
+
+#mpos {
+	position:absolute;
+    margin-left: 187px;
+    margin-top: 24px;
+    width: 58px;
+    float: left;
+    text-align: center;
+	z-index:1000;
+}
+#mpos span {
+    color: #b9b1a7;
+    font-size: 14px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+
+#mpatente {
+	position: absolute;
+    margin-left: 202px;
+    margin-top: 9px;
+    float: left;
+    text-align: center;
+    z-index: 1000;
+}
+#mpatente img {
+    /*height: 30px;*/
+    width: 35px;
+}
+
+#mgGM {
+	position: absolute;
+    margin-left: 191px;
+    margin-top: 26px;
+    float: left;
+    text-align: center;
+    z-index: 1000;
+}
+
+#mgGM span {
+    color: #746156;
+    font-size: 11px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #151515;
+}
+
+#mnpatente {
+    position: absolute;
+    margin-left: 230px;
+    margin-top: 24px;
+    width: 130px;
+    float: left;
+    text-align: center;
+    z-index: 1000;
+}
+#mnpatente span {
+    color: #b9b1a7;
+    font-size: 14px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #151515;
+}
+
+#mnpatente span a {
+	color: #b9b1a7;
+    text-decoration:none;
+}
+
+#mmr {
+	position: absolute;
+    margin-left: 375px;
+    margin-top: 24px;
+    width: 104px;
+    float: left;
+    text-align: center;
+    z-index: 1000;
+}
+#mmr span {
+    color: #b9b1a7;
+    font-size: 14px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+
+#mmrs {
+	position: absolute;
+    margin-left: 453px;
+    margin-top: 24px;
+    width: 24px;
+    float: left;
+    text-align: center;
+    z-index: 1000;
+}
+#mmrs span {
+    color: #746156;
+    font-size: 14px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+	float:right;
+}
+
+#mtoporanking {
+    position: relative;
+    width: 499px;
+    height: 45px;
+    background: url(../img/rankings/topo.jpg) top center no-repeat;
+    border: none;
+	margin-top: 8px;
+    margin-left: -10px;
+    float: left;
+}
+
+#mtoponome {
+    position: absolute;
+    margin-top: 14px;
+    width: 499px;
+    text-align: center;
+    z-index: 1000;
+}
+
+#mtoponome span {
+    color: #b9b1a7;
+    font-size: 14px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+
+
+#mrank {
+    position: relative;
+    width: 33px;
+    height: 33px;
+    background: url(../img/rankings/rank.png) top center no-repeat;
+    float: left;
+    z-index: 1000;
+    top: 13px;
+    text-align: center;
+    padding-top: 8px;
+}
+
+#mrank span {
+    color: #e4ceba;
+    font-size: 14px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #33281e;
+}

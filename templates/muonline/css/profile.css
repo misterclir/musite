@@ -1,0 +1,303 @@
+#etc { 
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+/*--------------------------------------------------------------*/
+#breakline { 
+	clear:both; 
+}
+/*--------------------------------------------------------------*/
+#tranking {
+    position: absolute;
+    z-index: 999;
+    margin-top: -117px;
+	float:left;
+}
+#tranking #diario {
+	font-weight:normal;
+	margin-left: 23px;
+	float: left;
+	cursor:pointer;
+	color:#d1c2a9;
+}
+#tranking #semanal {
+	font-weight:normal;
+	margin-left: 27px;
+	float: left;
+	cursor:pointer;
+	color:#d1c2a9;
+}
+#tranking #mensal {
+	font-weight:normal;
+	margin-left: 25px;
+	float: left;
+	cursor:pointer;
+	color:#d1c2a9;
+}
+#tranking #total {
+	font-weight:normal;
+	margin-left: 33px;
+	float: left;
+	cursor:pointer;
+	color:#d1c2a9;
+}
+#tranking a {
+	color:#EAB45F;
+	text-decoration:none;
+}
+#tranking a:hover, #tranking a:focus {
+	color:#EAB45F;
+}
+
+#tranking .qranking {
+	font-weight:normal;
+	margin-top: 22px;
+	width:272px;
+	padding-left:6px;
+}
+#tranking tr td {
+	text-shadow: 1px 1px 1px #272727;
+}
+/*--------------------------------------------------------------*/
+#qguild {
+    position: absolute;
+    z-index: 999;
+    margin-top: -110px;
+	margin-left: 298px;
+	float:left;	
+}
+#qguild #lguild {
+	font-weight:normal;
+	margin-left: 0px;
+	float: left;
+}
+#qguild #lguild img {
+	border-radius:4px;
+}
+#qguild #nguild {
+    margin-top: 26px;
+    margin-left: 0px;
+    float: left;
+    cursor: pointer;
+    width: 130px;
+	text-align: center;
+}
+#qguild #nguild span {
+    color: #b9945a;
+    font-size: 18px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+/*--------------------------------------------------------------*/
+#qfback {
+    position: absolute;
+    z-index: 1000;
+    margin-top: -315px;
+    margin-left: 52px;
+    float: left;
+    width: 131px;
+    height: 131px;
+}
+#qfback #femperor {
+	z-index: 1001;
+    margin-left: 4px;
+    margin-top: 3px;
+    float: left;
+}
+#qfback #femperor img {
+	width: 124px;
+    height: 124px;
+}
+
+#qfpback {
+    position: absolute;
+    z-index: 1000;
+    margin-top: -293px;
+    margin-left: 316px;
+    float: left;
+    width: 131px;
+    height: 131px;
+	
+}
+
+#qfpback #fpemperor {
+	z-index: 1001;
+    margin-top: 4px;
+    margin-left: -4px;
+    float: left;
+    width: 101px;
+    height: 81px;
+    text-align: center;
+}
+
+#qfpback #fpemperorEquipe {
+	z-index: 1001;
+    margin-top: 5px;
+    margin-left: -7px;
+    float: left;
+    width: 101px;
+    height: 81px;
+    text-align: center;
+}
+#qfpback #fpemperorImg {
+    width: 70px;
+}
+/*--------------------------------------------------------------*/
+#qemperor {
+    position: absolute;
+    z-index: 999;
+    margin-top: -309px;
+	float:left;
+	width: 500px;
+}
+
+#qemperor #nemperor {
+	margin-top: 135px;
+    margin-left: 43px;
+    float: left;
+    width: 150px;
+    text-align: center;
+}
+#qemperor #nemperor span {
+    color: #b9945a;
+    font-size: 21px;
+    font-weight: bold;
+	text-shadow: 2px 2px 2px #151515;
+}
+
+#qemperor #remperor {
+	margin-top: -51px;
+    margin-left: 251px;
+    float: left;
+    width: 53px;
+    text-align: center;
+}
+#qemperor #remperor span {
+    color: #A58C79;
+    font-size: 14px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #151515;
+}
+
+#qemperor #npemperor {
+    margin-top: -49px;
+    margin-left: 260px;
+    float: left;
+    width: 201px;
+    text-align: center;
+}
+
+#qemperor #npemperor span {
+	color: #b9b1a7;
+    font-size: 17px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #151515;
+	text-transform: uppercase;
+}
+
+#qemperor #ppemperor {
+	margin-top: -51px;
+    margin-left: 417px;
+    float: left;
+    width: 53px;
+    text-align: center;
+}
+#qemperor #ppemperor span {
+    font-size: 14px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #151515;
+}
+
+#qemperor #eemperor {
+	margin-top: -15px;
+    margin-left: 251px;
+    float: left;
+    width: 131px;
+    text-align: center;
+}
+#qemperor #eemperor span {
+	color: #b9b1a7;
+    font-size: 16px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #151515;
+}
+/*-------------------------------------------------*/
+#qmedal {
+	position: absolute;
+    z-index: 999;
+    margin-top: -349px;
+    margin-left: 98px;
+    float: left;
+}
+#qmedal .qmedal {
+	width:366px;
+}
+#qmedal tr td {
+	font-size: 11px;
+	color: #b9b1a7;
+	width: 61px;
+	text-align: center;
+	font-weight:bold;
+}
+/*-------------------------------------------------*/
+#qtroph {
+	position: absolute;
+    z-index: 999;
+    margin-top: -128px;
+    margin-left: 98px;
+    float: left;
+}
+#qtroph .qtroph {
+	width:366px;
+}
+#qtroph tr td {
+	font-size: 11px;
+	color: #b9b1a7;
+	width: 61px;
+	text-align: center;
+	font-weight:bold;
+}
+/*-------------------------------------------------*/
+#qonoff {
+    position: absolute;
+    z-index: 999;
+    margin-top: -332px;
+    margin-left: 76px;
+    float: left;
+}
+/*-------------------------------------------------*/
+#qvip {
+    position: absolute;
+    z-index: 999;
+    margin-top: -245px;
+    margin-left: 2px;
+    float: left;
+}
+/*-------------------------------------------------*/
+#vevents {
+    width: 144px;
+    height: 75px;
+    background: url('../img/profile/evento.jpg') top left no-repeat;
+}
+
+#vevents #ename {
+	font-size: 11px;
+	color: #b9b1a7;
+	text-align: center;
+	font-weight:bold;
+	padding-top: 20px;
+    width: 144px;
+}
+
+#vevents #epoints {
+	font-size: 11px;
+	color: #b9945a;
+	text-align: center;
+	font-weight:bold;
+	padding-top: 20px;
+    width: 144px;
+}

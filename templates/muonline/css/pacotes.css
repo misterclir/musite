@@ -1,0 +1,744 @@
+/*PACOTES VIP*/
+
+#BuyVIP1 {
+	display:block;
+	height:157px;
+    width:165px;
+	background: url(../images/Vip1_.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyVIP1:hover {
+	display:block;
+	height:157px;
+    width:165px;
+	background: url(../images/Vip1_hover_.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyVIP2 {
+	display:block;
+	height:157px;
+    width:165px;
+	background: url(../images/Vip2_.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyVIP2:hover {
+	display:block;
+	height:157px;
+    width:165px;
+	background: url(../images/Vip2_hover_.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyVIP3 {
+	display:block;
+	height:157px;
+    width:150px;
+	background: url(../images/Vip3_.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyVIP3:hover {
+	display:block;
+	height:157px;
+    width:150px;
+	background: url(../images/Vip3_hover_.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+
+/*PACOTES GEMS*/
+
+#BuyPacote1 {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote1.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote1:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote1_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2 {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote2.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote2_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3 {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote3.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote3_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4 {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote4.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote4_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5 {
+	display:block;
+	height:242px;
+    width:150px;
+	background-image: url(../images/Pacote5.jpg);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote5_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+/*PACOTES GEMS PROMOÇÃO 70%*/
+
+#BuyPacote1P70 {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote1P70.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote1P70:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote1P70_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P70 {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote2P70.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P70:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote2P70_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P70 {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote3P70.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P70:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote3P70_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P70 {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote4P70.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P70:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote4P70_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P70 {
+	display:block;
+        height:278px;
+    width:150px;
+	background-image: url(../images/Pacote5P70.jpg);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P70:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote5P70_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+/*PACOTES GEMS PROMOÇÃO 60%*/
+
+#BuyPacote1P60 {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/ironcash.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote1P60:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/ironcashover.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P60 {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/silvercash.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P60:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/silvercashover.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P60 {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/goldcash.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P60:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/goldcashover.png) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P60 {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote4P60.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P60:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote4P60_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P60 {
+	display:block;
+        height:278px;
+    width:150px;
+	background-image: url(../images/Pacote5P60.jpg);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P60:hover {
+	display:block;
+        height:278px;
+    width:150px;
+	background: url(../images/Pacote5P60_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+/*PACOTES GEMS PROMOÇÃO 15%*/
+
+#BuyPacote1P15 {
+	display:block;
+    height:278px;
+    width:150px;
+	background: url(../images/Pacote1P15.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote1P15:hover {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote1P15_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P15 {
+	display:block;
+    height:278px;
+    width:150px;
+	background: url(../images/Pacote2P15.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P15:hover {
+	display:block;
+    height:278px;
+    width:150px;
+	background: url(../images/Pacote2P15_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P15 {
+	display:block;
+    height:278px;
+    width:150px;
+	background: url(../images/Pacote3P15.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P15:hover {
+	display:block;
+    height:278px;
+    width:150px;
+	background: url(../images/Pacote3P15_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P15 {
+	display:block;
+    height:278px;
+    width:150px;
+	background: url(../images/Pacote4P15.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P15:hover {
+	display:block;
+    height:278px;
+    width:150px;
+	background: url(../images/Pacote4P15_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P15 {
+	display:block;
+    height:278px;
+    width:150px;
+	background-image: url(../images/Pacote5P15.jpg);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P15:hover {
+	display:block;
+    height:278px;
+    width:150px;
+	background: url(../images/Pacote5P15_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+/*PACOTES GEMS PROMOÇÃO 50%*/
+
+#BuyPacote1P {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote1P.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote1P:hover {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote1P_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote2P.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P:hover {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote2P_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote3P.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P:hover {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote3P_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote4P.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P:hover {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote4P_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P {
+	display:block;
+	height:278px;
+    width:150px;
+	background-image: url(../images/Pacote5P.jpg);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P:hover {
+	display:block;
+	height:278px;
+    width:150px;
+	background: url(../images/Pacote5P_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+/*PACOTES GEMS PROMOÇÃO 20%*/
+
+#BuyPacote1P20 {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote1P20.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote1P20:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote1P20_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P20 {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote2P20.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote2P20:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote2P20_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P20 {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote3P20.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote3P20:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote3P20_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P20 {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote4P20.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote4P20:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote4P20_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P20 {
+	display:block;
+	height:242px;
+    width:150px;
+	background-image: url(../images/Pacote5P20.jpg);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#BuyPacote5P20:hover {
+	display:block;
+	height:242px;
+    width:150px;
+	background: url(../images/Pacote5P20_hover.jpg) no-repeat;
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#imgCaixa {
+	display:block;
+	height:89px;
+    width:154px;
+	background-image: url(../images/imgCaixa.png);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#imgPagSeguro {
+	display:block;
+	height:89px;
+    width:154px;
+	background-image: url(../images/imgPagSeguro.png);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+#imgPicPay {
+	display:block;
+	height:89px;
+    width:154px;
+	background-image: url(../images/imgPicPay.png);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+.backPack {
+	display:block;
+	height:25px;
+    width:144px;
+	background-image: url(../images/backPack.jpg);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+.backPlan {
+	display:block;
+	height:25px;
+    width:144px;
+	background-image: url(../images/backPlan.jpg);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+.yesPicPay {
+	display:block;
+	height:25px;
+    width:184px;
+	background-image: url(../images/yesPicPay.png);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
+
+.noPicPay {
+	display:block;
+	height:25px;
+    width:184px;
+	background-image: url(../images/noPicPay.png);
+    border: none;
+    outline: none;
+	text-indent: -100000px;	
+}
